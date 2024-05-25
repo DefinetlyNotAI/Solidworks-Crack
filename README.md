@@ -4,6 +4,11 @@
 You can go to this [website](https://getintopc.com/softwares/3d-cad/solidworks-2024-free-download/) to download the cracked files, this is the link for the 2024 version, this guide is tested on the 2021 version found [here](https://getintopc.com/softwares/3d-cad/solidworks-2021-free-download/) which means you may get minor differences, if something is major, please open a issue!
 Only Windows and you must have microsoft excel installed and accessable with a valid license to operate.
 
+## Quick Note
+A AI generated updated easier to understand md file of this instruction set, you may view it if you wan't.
+
+Also a great way to do this setup is to watch the video tutorial on the installation found in this repository.
+
 ## Steps to activate
 
 1) Disable your internet, this is to stop the software from running checks on itself during installation
@@ -52,4 +57,4 @@ Only Windows and you must have microsoft excel installed and accessable with a v
 
 Sometimes a dll file can be missing, note the fix is found if you search the dll name in google and download the file and follow the websites guidlines
 
-Also a great way to do this is to watch the video tutorial on the installation found in this repository
+
