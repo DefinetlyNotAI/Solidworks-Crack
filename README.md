@@ -11,6 +11,8 @@ Also a great way to do this setup is to watch the video tutorial on the installa
 
 Leave a Star please :)
 
+It is compulsory to have a activated license of Microsoft Excel, you may crack it, but solidworks requires it to be functional.
+
 ## Steps to activate
 
 1) Disable your internet, this is to stop the software from running checks on itself during installation
