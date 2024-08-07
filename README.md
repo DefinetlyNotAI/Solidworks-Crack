@@ -13,6 +13,8 @@ Leave a Star please :)
 
 It is compulsory to have a activated license of Microsoft Excel, you may crack it, but solidworks requires it to be functional.
 
+I'm really happy that this is the top repo when searched up on google, BUT can you please check out my other projects?
+
 ## Steps to activate
 
 1) Disable your internet, this is to stop the software from running checks on itself during installation
