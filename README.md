@@ -61,6 +61,6 @@ I'm really happy that this is the top repo when searched up on google, BUT can y
 
 22) Congrats you finished
 
-Sometimes a dll file can be missing, note the fix is found if you search the dll name in google and download the file and follow the websites guidlines
+Sometimes a dll file can be missing, the fix for this issue is found if you search the dll name and download it from this [website](https://www.dll-files.com).
 
 
