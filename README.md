@@ -15,6 +15,10 @@ It is compulsory to have a activated license of Microsoft Excel, you may crack i
 
 I'm really happy that this is the top repo when searched up on google, BUT can you please check out my other projects?
 
+## Common Issues
+
+- If a `Could not obtain a license for solidworks standard (-8 544 0)` error pops up, that is normal for windows it is a bug with code [KB3072630](https://support.microsoft.com/en-gb/topic/ms15-074-vulnerability-in-windows-installer-service-could-allow-elevation-of-privilege-july-14-2015-f8098b21-9ab7-a0a6-bddb-a287351f4665) which made windows actually treat Solidworks as a system modification software, The fix is easy and is [here](https://www.youtube.com/watch?v=NL0B8DYRCA0)
+
 ## Steps to activate
 
 1) Disable your internet, this is to stop the software from running checks on itself during installation
