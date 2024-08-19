@@ -2,6 +2,14 @@
 
 This guide provides detailed instructions for installing SolidWorks, including where to obtain the necessary files and the steps to activate the software. It's important to note that this guide is intended for educational purposes only and should be used responsibly.
 
+Also a great way to do this setup is to watch the video tutorial on the installation found in this repository. This is advised.
+
+Leave a Star please 💖
+
+It is compulsory to have a activated license of Microsoft Excel, you may crack it, but SolidWorks requires it to be functional and usable.
+
+I'm really happy that this is the top repo when searched up on google, BUT can you please check out my other projects?
+
 ## Prerequisites
 
 Before beginning the installation process, ensure you meet the following requirements:
