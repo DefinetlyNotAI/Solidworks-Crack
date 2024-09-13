@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "Hi, thanks for viewing my repository, I really appreciate it, It seems you have found a bug or are asking about a question, Please wait a maximum of 24 hours before i respond, issues usually close in less than 2 days, While youre at here, do drop a star ;)"
+        pr-message: "Hi, This is a repo that doesnt really require PR's, I appreciate your contribution - But most likely the PR will be rejected."
