@@ -10,6 +10,11 @@ It is compulsory to have a activated license of Microsoft Excel, you may crack i
 
 I'm really happy that this is the top repo when searched up on google, BUT can you please check out my other projects?
 
+## Pin of shame
+These people just decided to fork the repo for some reason? They also did this to many diffrent repo's
+
+- [@xiaosahuogui](https://github.com/xiaosahuogui)
+
 ## Prerequisites
 
 Before beginning the installation process, ensure you meet the following requirements:
