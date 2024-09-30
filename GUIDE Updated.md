@@ -58,6 +58,31 @@ I'm really happy that this is the top repo when searched up on google, BUT can y
 - Locate three folders within the extracted contents: two containing program files and one labeled 'Server'. Additionally, find two registry entries and a text file.
 - Move the extracted folder from Step 2 to the main installation directory chosen earlier. If prompted with a file conflict, choose to replace the existing files.
 
+Folders to be replaced from "Program Files\SOLIDWORKS Corp" (at setup by default):
+```
+C:\Program Files\SOLIDWORKS Corp\eDrawings  
+C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS
+C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS CAM
+C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS Composer
+C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS Electrical
+C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS Explorer
+C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS Flow Simulation
+C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS Inspection
+C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS Manage Client
+C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS PCB
+C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS PDM
+C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS Plastics
+C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS Visualize
+C:\Program Files\SOLIDWORKS Corp\SOLIDWORKS Visualize Boost
+```
+Folders to be replaced from "Program Files (x86)" (at setup by default):
+```
+C:\Program Files (x86)\SOLIDWORKS PDM
+```
+**Note**: This may not be the case for you
+
+Thanks to [@xdu-aero-association](https://github.com/xdu-aero-association/SolidWorks_2020_Crack) for the path's
+
 ### Step 4: Registry Entries
 - Right-click on `networks_serial_licensing` and select 'Merge'. Allow any prompts that appear. Confirm successful merging; if not, seek further assistance.
 
