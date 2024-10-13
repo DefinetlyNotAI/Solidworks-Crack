@@ -1,0 +1,47 @@
+name: Report a issue.
+description: Tell us about a bug or issue while cracking Solidworks.
+title: "Provide a general summary of the issue"
+labels: ["Problem"]
+assignees: "DefinetlyNotAI"
+body:
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: Take a couple minutes to help our maintainers work faster.
+      options:
+        - label: I have [searched](https://github.com/DefinetlyNotAI/Solidworks-Crack/issues?utf8=%E2%9C%93&q=is%3Aissue) for duplicate or closed issues.
+          required: true
+        - label: I have made sure the issue is not related to (-8 554 0).
+          required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Describe the issue
+      description: Provide a summary of the issue and what you expected to happen, including specific steps to reproduce.
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Include anything you deem important. Video's, Links or screenshots are helpful.
+    validations:
+      required: false
+  - type: dropdown
+    id: flags
+    attributes:
+      label: Which tutorial did you follow
+      multiple: false
+      options:
+        - Guide Updated
+        - README Guide
+        - Attached video
+        - External Video
+        - External Guide
+  - type: input
+    id: version
+    attributes:
+      label: Any error codes from Solidworks?
+      placeholder: "e.g (-8, 554, 0)"
+    validations:
+      required: false
