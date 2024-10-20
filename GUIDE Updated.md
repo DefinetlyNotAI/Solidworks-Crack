@@ -10,11 +10,10 @@ It is compulsory to have a activated license of Microsoft Excel, you may crack i
 
 I'm really happy that this is the top repo when searched up on google, BUT can you please check out my other projects?
 
-## Pin of shame
-These people just decided to fork the repo for some reason? They also did this to many different repo's of different user's
+## Quick Request
 
-- [@xiaosahuogui](https://github.com/xiaosahuogui)
-- [@QXan0nym0usX](https://github.com/QXan0nym0usX/Solidworks-Crack)
+I know the only reason you guys pirate software is cause you got no money, or not enough money - which is why i ask, can you buy me a coffee?
+Only if your capable, maybe drop a sponsor? It will allow me to continue this project and crack more software, Thanks 🤗
 
 ## Prerequisites
 
