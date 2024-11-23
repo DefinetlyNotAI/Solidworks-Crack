@@ -15,6 +15,8 @@ I'm really happy that this is the top repo when searched up on google, BUT can y
 I know the only reason you guys pirate software is cause you got no money, or not enough money - which is why i ask, can you buy me a coffee?
 Only if your capable, maybe drop a sponsor? It will allow me to continue this project and crack more software, Thanks 🤗
 
+Also, for the people who fork the project for no reason, maybe star it before?
+
 ## Prerequisites
 
 Before beginning the installation process, ensure you meet the following requirements:
