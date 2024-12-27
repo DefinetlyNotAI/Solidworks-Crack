@@ -1,0 +1,22 @@
+name: Suggest something.
+description: Tell us any suggestion or wants.
+title: "Provide a general summary of your suggestion"
+labels: ["Suggestion"]
+assignees: "DefinetlyNotAI"
+body:
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: Take a couple minutes to help our maintainers work faster.
+      options:
+        - label: I have [searched](https://github.com/DefinetlyNotAI/Solidworks-Crack/issues?utf8=%E2%9C%93&q=is%3Aissue) for duplicate or closed issues.
+          required: true
+        - label: You understand that you may require a certain amount of upvotes before your suggestion is taken into consideration!
+          required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Describe the suggestion
+      description: Provide a summary of the suggestion and what you expect.
+    validations:
+      required: true
