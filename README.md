@@ -1,5 +1,9 @@
 # Solidworks Crack Guide
 
+> [!IMPORTANT]
+> Would you like me to crack more software? Or crack newer Solidwork versions?
+> Open an Issue -> Suggestion, and fill out the form, thx
+
 ## Where to install the required files?
 You can go to this [website](https://getintopc.com/softwares/3d-cad/solidworks-2024-free-download/) to download the cracked files, this is the link for the 2024 version, this guide is tested on the 2021 version found [here](https://getintopc.com/softwares/3d-cad/solidworks-2021-free-download/) which means you may get minor differences, if something is major, please open a issue!
 Only Windows and you must have microsoft excel installed and accessable with a valid license to operate.
