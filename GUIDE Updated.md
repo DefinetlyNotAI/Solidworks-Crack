@@ -1,5 +1,9 @@
 # SolidWorks Installation Guide
 
+> [!IMPORTANT]
+> Would you like me to crack more software? Or crack newer Solidwork versions?
+> Open an Issue -> Suggestion, and fill out the form, thx
+
 This guide provides detailed instructions for installing SolidWorks, including where to obtain the necessary files and the steps to activate the software. It's important to note that this guide is intended for educational purposes only and should be used responsibly.
 
 Also a great way to do this setup is to watch the video tutorial on the installation found in this repository. This is advised.
