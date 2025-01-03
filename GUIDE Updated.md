@@ -39,7 +39,7 @@ Please note that this guide has been tested on the 2021 version, and while the 2
 
 A AI has generated a this guide which is from [this](README.md) instruction set, you may view it if you wan't for a better consice guide.
 
-Also a great way to do this setup is to watch the [video](SolidWorks_2021_Tutorial.mp4) tutorial on the installation found in this repository - You have to download the video as GitHub doesnt support `mp4` files.
+Also a great way to do this setup is to watch the [video](https://github.com/DefinetlyNotAI/Solidworks-Crack/raw/refs/heads/main/SolidWorks_2021_Tutorial.mp4) tutorial on the installation found in this repository - You have to download the video as GitHub doesnt support `mp4` files.
 
 It is compulsory to have a activated license of Microsoft Excel, you may crack it, but solidworks requires it to be functional and editable.
 
