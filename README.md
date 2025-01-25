@@ -5,11 +5,16 @@
 > Open an Issue -> Suggestion, and fill out the form, thx
 
 ## Where to install the required files?
-You can go to this [website](https://getintopc.com/softwares/3d-cad/solidworks-2024-free-download/) to download the cracked files, this is the link for the 2024 version, this guide is tested on the 2021 version found [here](https://getintopc.com/softwares/3d-cad/solidworks-2021-free-download/), which means you may get minor differences, if something is major, please open a issue!
+You can go to this website [2024](https://getintopc.com/softwares/3d-cad/solidworks-2024-free-download/) or [2023](https://getintopc.com/softwares/analysis/solidworks-2023-free-download/) to download the cracked files, this is the link for the 2024 version, this guide is tested on the 2021 version found [here](https://getintopc.com/softwares/3d-cad/solidworks-2021-free-download/), which means you may get minor differences, if something is major, please open a issue!
 Only Windows OS work and you must have microsoft excel installed and accessable with a valid license to operate.
 
 > [!TIP]
 > If the 2021 link fails, try this archive link [here](https://web.archive.org/web/20210727190509/https://getintopc.com/softwares/3d-cad/solidworks-2021-free-download/), this link is not guaranteed to work
+
+> [!IMPORTANT]
+> It seems direct linking has been disabled, if you get the error `ERR_ADDRESS_INVALID` then go [here](https://www.google.com/search?client=opera-gx&q=solidworks+cracked+getintopc&sourceid=opera&ie=UTF-8&oe=UTF-8) and click the first link,
+>
+> MAKE SURE to click the first link, the domain SHOULD BE `https://getintopc.com` exactly, beware of PHISHING URL's!!
 
 ## Quick Note
 A AI has generated a updated easier to understand .md file of this instruction set, you may view it if you wan't.
