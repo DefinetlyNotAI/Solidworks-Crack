@@ -14,6 +14,15 @@ It is compulsory to have a activated license of Microsoft Excel, you may crack i
 
 I'm really happy that this is the top repo when searched up on google, BUT can you please check out my other projects?
 
+> [!TIP]
+> If the 2021 link fails, try this archive link [here](https://web.archive.org/web/20210727190509/https://getintopc.com/softwares/3d-cad/solidworks-2021-free-download/), this link is not guaranteed to work
+
+> [!IMPORTANT]
+> It seems direct linking has been disabled, if you get the error `ERR_ADDRESS_INVALID` then go [here](https://www.google.com/search?client=opera-gx&q=solidworks+cracked+getintopc&sourceid=opera&ie=UTF-8&oe=UTF-8) and click the first link,
+>
+> MAKE SURE to click the first link, the domain SHOULD BE `https://getintopc.com` exactly, beware of PHISHING URL's!!
+
+
 ## Quick Request
 
 I know the only reason you guys pirate software is cause you got no money, or not enough money - which is why i ask, can you buy me a coffee?
