@@ -15,6 +15,10 @@ Only Windows OS work and you must have microsoft excel installed and accessable 
 > It seems direct linking has been disabled, if you get the error `ERR_ADDRESS_INVALID` then go [here](https://www.google.com/search?client=opera-gx&q=solidworks+cracked+getintopc&sourceid=opera&ie=UTF-8&oe=UTF-8) and click the first link,
 >
 > MAKE SURE to click the first link, the domain SHOULD BE `https://getintopc.com` exactly, beware of PHISHING URL's!!
+>
+> I want to host the files on my own to eliminate the risk of malware, so any suggestion to host a 16GB zip file for free (I don't get donations to do it for money 🥲)?
+>
+> If you have a suggestion, leave it on Issues > New Issue > Suggest
 
 ## Quick Note
 A AI has generated a updated easier to understand .md file of this instruction set, you may view it if you wan't.
