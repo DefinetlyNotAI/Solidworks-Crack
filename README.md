@@ -85,6 +85,7 @@ We successfully ported the video, view it [here](https://definetlynotai.github.i
 
 22) Congrats you finished
 
-Sometimes a dll file can be missing, the fix for this issue is found if you search the dll name and download it from this [website](https://www.dll-files.com).
+> [!TIP]
+> Sometimes a dll file can be missing, the fix for this issue is found if you search the dll name and download it from this website [dll-files](https://www.dll-files.com).
 
 
