@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> If you haven't checked the main page PLEASE go there, it will explain the preparation steps and many important info, not doing so may result in issues
+
 ## Steps to activate
 
 1) Disable your internet, this is to stop the software from running checks on itself during installation
