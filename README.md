@@ -63,11 +63,12 @@ FlexNet crashes if your hostname contains non-English characters (e.g., `ö`). T
    ```  
 3. Restart your system & FlexNet server.  
 
+### Missing DLL Errors
+Sometimes a dll file can be missing, the fix for this issue is found if you search the dll name and download it from this website [dll-files](https://www.dll-files.com). Make sure to scan for malware!!
+
 ---
 
-This version is clearer, more structured, and easier to follow. Let me know if you want any further refinements! 🚀
+## Extra Resources
 
-> [!TIP]
-> Sometimes a dll file can be missing, the fix for this issue is found if you search the dll name and download it from this website [dll-files](https://www.dll-files.com).
-
-
+- To uninstall solidworks due to a faulty installation or any issue. Check this [guide](https://github.com/DefinetlyNotAI/Solidworks-Crack/blob/main/Uninstall.md)
+- To know more about the Suggestions feature, check out [this](https://github.com/DefinetlyNotAI/Solidworks-Crack/blob/main/Suggestion_Guideline.md) informative text
