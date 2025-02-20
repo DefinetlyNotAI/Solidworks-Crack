@@ -33,7 +33,8 @@ If the 2021 link fails, try this [archived link](https://web.archive.org/web/202
 
 ---
 
-## Additional Resources  
+## Resources
+- The actual guide is [here](https://github.com/DefinetlyNotAI/Solidworks-Crack/blob/main/GUIDE.md), I advise using the video guide though!
 - An **AI-optimized** version of this guide is available in the [repository](https://github.com/DefinetlyNotAI/Solidworks-Crack/blob/main/GUIDE%20Updated.md).  
 - A [**video tutorial**](#Video-Guide) is also available for easier setup.  
 
@@ -41,6 +42,7 @@ If the 2021 link fails, try this [archived link](https://web.archive.org/web/202
 
 ## Video Guide  
 We successfully ported the tutorial video! Watch it **[here](https://definetlynotai.github.io/Solidworks-Crack/SolidWorks_2021_Tutorial.mp4)** online.  
+Do note, this is based on the 2021 version of solidworks, and has been tested on `2021` and `2024`
 
 ---
 
