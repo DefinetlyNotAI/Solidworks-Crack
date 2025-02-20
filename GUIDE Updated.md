@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> If you haven't checked the main page PLEASE go there, it will explain the preparation steps and many important info, not doing so may result in issues
+
 # Installation Steps
 
 ### Step 1: Preparation
