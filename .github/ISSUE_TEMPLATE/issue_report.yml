@@ -34,9 +34,8 @@ body:
       multiple: false
       options:
         - Guide Updated
-        - README Guide
+        - Guide
         - Attached video
-        - External Video
         - External Guide
   - type: input
     id: version
