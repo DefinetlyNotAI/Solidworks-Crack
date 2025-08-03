@@ -51,7 +51,14 @@ Do note, this is based on the 2021 version of solidworks, and has been tested on
 ### **License Error (-8 544 0)**  
 - This is a Windows bug related to **[KB3072630](https://support.microsoft.com/en-gb/topic/ms15-074-vulnerability-in-windows-installer-service-could-allow-elevation-of-privilege-july-14-2015-f8098b21-9ab7-a0a6-bddb-a287351f4665)**  
 - **No proper fix exists** – Using the **2021 version** is recommended.  
-- This issue is **not caused by me** but by the software host.  
+- This issue is **not caused by me** but by the software host.
+
+### Missing UI / Boxes
+If you find missing UI especially the T&C this can be fixed by the Text Scale.
+
+To do so, Go to `Settings` -> `Display` -> `Text Size Scaling` must be set to 100%
+
+> Credit to [@Bing Bong Dot Com](https://github.com/bingbongdotcom) in issue [#33](https://github.com/DefinetlyNotAI/Solidworks-Crack/issues/33)
 
 ### **FlexNet Server Failure (Invalid Hostname)**  
 FlexNet crashes if your hostname contains non-English characters (e.g., `ö`). To fix it:  
