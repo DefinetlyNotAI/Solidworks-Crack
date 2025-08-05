@@ -1,7 +1,5 @@
 # SolidWorks Installation Guide
-
-> [!NOTE]
-> **Want more software or newer SolidWorks versions?**  
+\ns?**  
 > Open an **Issue → Suggestion**, fill out the form, and let me know!  
 
 ## Where to Download SolidWorks?  
