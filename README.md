@@ -48,19 +48,23 @@ Do note, this is based on the 2021 version of solidworks, and has been tested on
 
 ## Common Issues & Fixes  
 
-### **License Error (-8 544 0)**  
+### 1. **License Error (-8 544 0)**  
 - This is a Windows bug related to **[KB3072630](https://support.microsoft.com/en-gb/topic/ms15-074-vulnerability-in-windows-installer-service-could-allow-elevation-of-privilege-july-14-2015-f8098b21-9ab7-a0a6-bddb-a287351f4665)**  
 - **No proper fix exists** – Using the **2021 version** is recommended.  
 - This issue is **not caused by me** but by the software host.
 
-### Missing UI / Boxes
+> Apparently a valid fix can be done with the following:
+> "The application required netapi32.dll. You can obtain it through the Composer, then copy the file into the Program Files -> SolidWorks Corp -> SolidWorks directory. After that, launch SOLIDWORKS while disconnected from the internet."
+> > Credit to [@Ahmadjerj](https://github.com/Ahmadjerj) in issue [#4](https://github.com/DefinetlyNotAI/Solidworks-Crack/issues/4#issuecomment-4005480541)
+
+### 2. Missing UI / Boxes
 If you find missing UI especially the T&C this can be fixed by the Text Scale.
 
 To do so, Go to `Settings` -> `Display` -> `Text Size Scaling` must be set to 100%
 
 > Credit to [@Bing Bong Dot Com](https://github.com/bingbongdotcom) in issue [#33](https://github.com/DefinetlyNotAI/Solidworks-Crack/issues/33)
 
-### **FlexNet Server Failure (Invalid Hostname)**  
+### 3. **FlexNet Server Failure (Invalid Hostname)**  
 FlexNet crashes if your hostname contains non-English characters (e.g., `ö`). To fix it:  
 
 1. Open **Command Prompt** as Administrator  
@@ -70,7 +74,7 @@ FlexNet crashes if your hostname contains non-English characters (e.g., `ö`). T
    ```  
 3. Restart your system & FlexNet server.  
 
-### Missing DLL Errors
+### 4. Missing DLL Errors
 Sometimes a dll file can be missing, the fix for this issue is found if you search the dll name and download it from this website [dll-files](https://www.dll-files.com). Make sure to scan for malware!!
 
 ---
