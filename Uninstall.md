@@ -3,8 +3,7 @@
 Follow these instructions to fully uninstall Solidworks:
 - Make a system recovery point ( In case you mess something up, you can rollback safely )
 - Install IoBit uninstaller and safely delete everything Solidworks related, including residual files and registry, you can get a pro key for free if you search in the internet these may work:
-    - License code 1: 5FE5E-27FD1-9217B-389TD
-    - License code 2: 3D7CB-22411-E78C5-DCCBD (License Exp. Date: Apr 24, 2025)
+    - License code: 5FE5E-27FD1-9217B-389TD
 - Check paths below and remove them if they still exist
 - Check your `C:/` and `StartMenu` for any Solidworks file's still there
 - Restart your device, and restart the installation
